@@ -1,14 +1,14 @@
 # Political Polarization In the Senate Federal Judiciary
 
 In the wake of the Supreme Court reproductive rights opinion leak I was curious to see if the political polarization we hear so much about < \br>
-in discussions about the US congress applied to the judicial branch of governemnt. < \br>
+in discussions about the US congress applied to the judicial branch of governemnt.
 
-Simply put: *Is there ideological polarization in congress? If so, does it have an effect on partisanship in the judicial branch?* < \br>
+Simply put: *Is there ideological polarization in congress? If so, does it have an effect on partisanship in the judicial branch?* 
 
 This question is important because the judicial branch is supposed to act as a third party that reviews executive and legislative rulings that are tainted 
 by partisanship from an objective view grounded in legal literature. But we know judges all have partisan leanings that affect their rulings. If politicians
 are appointing more ideologically polarized judges this trickles down into the case law and decisions that rule the land. *This goes against the very 
-design of the judicial branch*. < \br>
+design of the judicial branch*. 
 
 *A write-up of my methods and findings can be found in the "Judge_Polarization_Report" document.* 
 
