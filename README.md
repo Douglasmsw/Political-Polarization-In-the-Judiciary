@@ -15,10 +15,17 @@ design of the judicial branch*.
 I did my data exploration using a Jupyter notebook, so my code file is messy, broken into blocks, and is not organized into neat functions as a normal 
 coding project would be.
 
-The data I used is contained within this repository as well. I also included the larger Database on Ideology, 
-Money in Politics, and Elections. It is a fascinating dataset that I reccomend playing around with!
+The data I used is from the Database on Ideology, Money in Politics, and Elections (https://data.stanford.edu/dime)
+and the Voteview Nominate dataset (https://voteview.com/data)
+
+They're both fascinating datasets that I reccomend playing around with!
 
 I hope you find the report interesting and it sparks some curiosity. I limited myself to six pages so there is are 
 a lot of questions and rabbit holes left unexplored in this quick project, but I'm hoping to return to this
 and also see more academic inquiry into this area!
 
+Data Source Citations:
+
+Bonica, Adam. 2016. Database on Ideology, Money in Politics, and Elections: Public version 2.0 [Computer file]. Stanford, CA: Stanford University       Libraries. <https://data.stanford.edu/dime>
+
+Lewis, Jeffrey B., Keith Poole, Howard Rosenthal, Adam Boche, Aaron Rudkin, and Luke Sonnet (2022). Voteview: Congressional Roll-Call Votes Database. https://voteview.com/
