@@ -10,7 +10,7 @@ by partisanship from an objective view grounded in legal literature. But we know
 are appointing more ideologically polarized judges this trickles down into the case law and decisions that rule the land. *This goes against the very 
 design of the judicial branch*. 
 
-*A write-up of my methods and findings can be found in the "Judge_Polarization_Report" document.* 
+*A write-up of my methods and findings can be found in the <a href="https://github.com/Douglasmsw/Political-Polarization-In-the-Judiciary/blob/main/Judge_Polarization_Report.pdf"><strong>"Judge_Polarization_Report"</strong></a> document.* 
 
 I did my data exploration using a Jupyter notebook, so my code file is messy, broken into blocks, and is not organized into neat functions as a normal 
 coding project would be.
