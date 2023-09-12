@@ -1,4 +1,4 @@
-# Political Polarization In the Senate Federal Judiciary
+# Political Polarization In the Federal Judiciary
 
 In the wake of the Supreme Court reproductive rights opinion leak I was curious to see if the political polarization we hear so much about
 in discussions about the US congress applied to the judicial branch of governemnt.
